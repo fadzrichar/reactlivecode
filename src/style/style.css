@@ -1,0 +1,34 @@
+/* header style start */
+
+header{
+    padding: 10px 0px;
+    background-color: whitesmoke;
+    box-shadow: 0px 1px 4px gray;
+    font-family: Muli;
+    font-size: 14px;
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+.header-title li {
+    display: inline-block;
+    margin-left: 10px;
+    padding: 0px;
+    vertical-align: middle;
+}
+
+.header-title li a {
+    color: black;
+}
+
+.header-nav-bar li {
+    display: inline-block;
+    margin: 7px;
+    padding: 0px;
+    vertical-align: middle;
+    /* font-size: 13px; */
+}
+
+.header-nav-bar li a {
+    color: gray;
+}
